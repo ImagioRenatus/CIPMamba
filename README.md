@@ -4,7 +4,7 @@ CIPMamba is a two-stage framework for low-light RAW-to-sRGB image restoration. I
 
 ### Performance Comparison
 
-The following figures compare restoration quality and model complexity on the SID-Sony and SID-Fuji datasets.
+The following figures compare restoration quality and model complexity on the SID-Sony datasets.
 
 **SID-Sony**
 
